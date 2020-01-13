@@ -1,0 +1,8 @@
+database/Words.class
+crawling/SideAnalyzer.class
+crawling/Spider.class
+crawling/Crawler.class
+main/Starter.class
+saving/SaveToXml.class
+crawling/Scraper.class
+crawling/Response.class
